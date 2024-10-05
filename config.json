@@ -1,0 +1,10 @@
+{
+  "token": "6480327163:AAEhBL_8H0USyMc4UhE7MW19nfyJXVAYMOA",
+  "polling": true,
+  "port": 8080,
+  "api": "https://ajiro-api.onrender.com",
+  "prefix": "-",
+  "symbols": "●",
+  "owner": "Lance Ajiro",
+  "admin": ["6488288986"]
+}
